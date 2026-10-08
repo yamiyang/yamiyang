@@ -13,8 +13,9 @@
 │                                                              │
 │                                                              │
 │  $ cat about.txt                                             │
-│  canvas engines · AI-native products · Yu-Gi-Oh! card tools  │
-│  // "Duel with creativity, draw with code."                  │
+│  Full-stack AI Product Manager · spec → build → ship         │
+│  AI-native products · tools · Yu-Gi-Oh! TCG                  │
+│  // "Own the product, end to end."                           │
 │  // BELIEVE IN THE HEART OF THE CARDS                        │
 │                                                              │
 ├──────────────────────────────────────────────────────────────┤
